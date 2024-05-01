@@ -1,0 +1,27 @@
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+.texto-menor{
+    font-size: 13px;
+}
+
+.facilidades{
+    width: 325px;
+}
+
+.novidades{
+    width: 325px;
+
+}
+@media(min-width: 768px) {
+
+    .novidades {
+        width: 696px;
+    }
+
+}
+
